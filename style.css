@@ -8,23 +8,24 @@ header {
   text-align: center;
 }
 
-nav a{
+nav > a{
   padding-left: 10px;
   padding-right: 10px;
   background: #D3D3D3;
 }
 
 figure{
-  margin: auto;
+  text-align: center;
 }
 
 figcaption{
   font-size: 10px;
 }
 
-#featured-property p{
+#featured-property > p{
   text-align: center;
-  margin: auto;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 #details{
